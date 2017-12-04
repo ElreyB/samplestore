@@ -17,6 +17,7 @@ gem 'devise', '~> 4.3.0'
 gem "paperclip", "~> 5.0.0"
 gem 'rails_admin', '~> 1.2'
 gem 'cancancan', '~> 2.0'
+gem 'rest-client'
 
 
 group :development, :test do
